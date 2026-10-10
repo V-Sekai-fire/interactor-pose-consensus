@@ -17,4 +17,4 @@ python python/test_backend_licenses.py
 
 ## Licence
 
-Only the two test scripts state a licence, Apache-2.0 OR MIT, in their SPDX headers. The other modules and the repository carry none.
+MIT. See [LICENSE](LICENSE).
